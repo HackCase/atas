@@ -16,4 +16,4 @@ Tudo bem com [CLIENTE_1].
 
 ## Decisões e próximos passos
 
-_Preenchido após a aprovação do plano._
+- **a1** — Padronizar onboarding (prioridade alta) → `out/issues/2026-10-14-gestao-semanal/a1.yml`
