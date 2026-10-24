@@ -23,4 +23,6 @@ participantes: [Djavan Loureiro, Enzo Valençuela, Antonio Castro]
 
 ## Decisões e próximos passos
 
-_Preenchido após a aprovação do plano._
+- **a1** — Contatar cliente do App de Pedidos (prioridade urgente) → `out/issues/2026-10-17-alinhamento-comercial-e-projetos/a1.yml`
+- **a2** — Normalizar a planilha de leads (prioridade alta) → `out/issues/2026-10-17-alinhamento-comercial-e-projetos/a2.yml`
+- **a3** — Criar template padrão para propostas (prioridade media) → `out/issues/2026-10-17-alinhamento-comercial-e-projetos/a3.yml`
