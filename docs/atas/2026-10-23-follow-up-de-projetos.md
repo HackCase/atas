@@ -24,4 +24,6 @@ Contudo, a integração desses novos membros enfrenta obstáculos devido à falt
 
 ## Decisões e próximos passos
 
-_Preenchido após a aprovação do plano._
+- **a1** — Padronizar o onboarding dos novos membros (prioridade urgente) → `out/issues/2026-10-23-follow-up-de-projetos/a1.yml`
+- **a2** — Implementar processo obrigatório de revisão de código (prioridade urgente) → `out/issues/2026-10-23-follow-up-de-projetos/a2.yml`
+- **a3** — Documentar o processo de deploy (prioridade urgente) → `out/issues/2026-10-23-follow-up-de-projetos/a3.yml`
