@@ -25,4 +25,6 @@ Embora a rotina semanal esteja sendo cumprida, a equipe enfrenta desafios na pad
 
 ## Decisões e próximos passos
 
-_Preenchido após a aprovação do plano._
+- **a1** — Padronizar o onboarding de novos membros (prioridade alta) → `out/issues/2026-10-14-gestao-semanal-de-projetos/a1.yml`
+- **a2** — Garantir a revisão técnica no projeto App de Pedidos (prioridade urgente) → `out/issues/2026-10-14-gestao-semanal-de-projetos/a2.yml`
+- **a3** — Centralizar o registro de decisões e tarefas (prioridade alta) → `out/issues/2026-10-14-gestao-semanal-de-projetos/a3.yml`
