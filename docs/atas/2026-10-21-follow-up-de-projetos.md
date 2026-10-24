@@ -24,4 +24,6 @@ Persistem desafios críticos relacionados à padronização de processos, falta 
 
 ## Decisões e próximos passos
 
-_Preenchido após a aprovação do plano._
+- **a2** — Estabelecer checklist obrigatório de code review (prioridade alta) → `out/issues/2026-10-21-follow-up-de-projetos/a2.yml`
+- **a3** — Documentar o processo de deploy (prioridade urgente) → `out/issues/2026-10-21-follow-up-de-projetos/a3.yml`
+- Sem ação para p1: Já há uma issue que mostra essa ação
