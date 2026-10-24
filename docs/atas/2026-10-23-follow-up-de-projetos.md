@@ -24,4 +24,6 @@ Entretanto, foram identificadas falhas operacionais significativas, especialment
 
 ## Decisões e próximos passos
 
-_Preenchido após a aprovação do plano._
+- **a2** — Implementar regra de bloqueio de merge sem revisão de código (prioridade urgente) → `out/issues/2026-10-23-follow-up-de-projetos/a2.yml`
+- **a3** — Documentar o processo de deploy (prioridade alta) → `out/issues/2026-10-23-follow-up-de-projetos/a3.yml`
+- Sem ação para p1: Já há uma issue que diz isse
