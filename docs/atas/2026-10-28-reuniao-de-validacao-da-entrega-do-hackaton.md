@@ -26,4 +26,6 @@ O cenário atual aponta a necessidade de ajustes operacionais para o funcionamen
 
 ## Decisões e próximos passos
 
-_Preenchido após a aprovação do plano._
+- **a1** — Automatizar a execucao do coletor (prioridade alta) → `out/issues/2026-10-28-reuniao-de-validacao-da-entrega-do-hackaton/a1.yml`
+- **a2** — Migrar o sistema para a infraestrutura da MEGA (prioridade alta) → `out/issues/2026-10-28-reuniao-de-validacao-da-entrega-do-hackaton/a2.yml`
+- Sem ação para p3: Por enquanto, podemos seguir com o plano gratuito
